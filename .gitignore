@@ -6,6 +6,6 @@ venv/
 
 .env
 
-logs/*.log
+*.log
 
 .vscode/

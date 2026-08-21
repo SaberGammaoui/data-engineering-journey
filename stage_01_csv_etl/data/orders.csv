@@ -1,0 +1,6 @@
+﻿order_id,customer,quantity,price,order_date
+1001,Valeo,,25.5,2026-08-08
+1002,Aptiv,5,40,2026-08-08
+1003,Valeo,3,25.5,2026-08-08
+1004,Stellantis,8,30,2026-08-08
+1005,Emirates Logistics,4,50,2026-08-08

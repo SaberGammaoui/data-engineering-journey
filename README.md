@@ -21,3 +21,4 @@ Build a complete Data Engineering project step by step, starting from a simple P
 ## Project Activity
 
 - 2026-08-26: Repository structure and Stage 1 checkpoint verified.
+- 2026-08-26: Git author configuration aligned with the verified GitHub account.

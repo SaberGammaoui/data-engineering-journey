@@ -17,3 +17,7 @@ This repository documents my hands-on journey toward Data Engineering.
 ## Objective
 
 Build a complete Data Engineering project step by step, starting from a simple Python ETL pipeline and progressively introducing databases, orchestration, distributed processing, cloud platforms, and streaming.
+
+## Project Activity
+
+- 2026-08-26: Repository structure and Stage 1 checkpoint verified.

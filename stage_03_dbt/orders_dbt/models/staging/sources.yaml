@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: raw
+    database: data_engineering
+    schema: public
+
+    tables:
+      - name: orders
+        description: "Orders loaded into PostgreSQL during Stage 02"
